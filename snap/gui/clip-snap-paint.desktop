@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=ClipStudioPaint
+Categories=Graphics
+Exec=clip-snap-paint %F
+Icon=${SNAP}/meta/gui/clip-snap-paint.png
+Terminal=false
+StartupNotify=true
+StartupWMClass=PhotoScape.exe
