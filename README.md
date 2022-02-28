@@ -21,9 +21,16 @@ Online features for this snap do not work correctly, such as log-in for license 
 
 In order to activate your installation, you will need to perform an offline activation.
 - Select "I already have a license"
+
+![image](https://user-images.githubusercontent.com/80431234/155963784-f3381498-ee28-496a-a522-1dd809e7084e.png)
+
 - "Click here if your device is not connected to the internet"
   - If this option does not show, close the program, disconnect from the internet and try again
+
+![image](https://user-images.githubusercontent.com/80431234/155964258-8a4b1f95-2f65-4a43-816c-72fcfc8edaab.png)
+
 - Continue with the steps provided in the program
+
 
 
 # License
