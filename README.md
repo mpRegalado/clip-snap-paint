@@ -4,6 +4,11 @@ It packages CSP `v1.9.11`, wine 6 staging and the required changes to launch the
 
 It has been packaged using [sommelier-core](https://github.com/snapcrafters/sommelier-core)
 
+# Motivation behind this project
+One of my biggest hurdles when transitioning from a Windows system to a Linux distribution on my daily driver was maintaing use of my favorite applications. I managed to set up a Wine configuration that let me keep using CSP on my linux machine well enough to keep working, even with some flaws, and kept me content for a couple of years.
+
+Now, I see more artists considering making the switch sharing my same concern, so I hope this project will make that step easier!
+
 # Installation
 - Download a release from the releases page.
 - Install it in your computer with
@@ -31,7 +36,9 @@ In order to activate your installation, you will need to perform an offline acti
 
 - Continue with the steps provided in the program
 
-
+# Contributing
+This project is open to any contributions or issues that may arise.
+[Submit a new issue](https://github.com/mpRegalado/clip-snap-paint/issues/new) - [Create a pull request](https://github.com/mpRegalado/clip-snap-paint/compare)
 
 # License
 This snap manifest is released under MIT license. ClipStudioPaint is a proprietary application owned by [CELSYS](https://www.clipstudio.net)
