@@ -1,6 +1,6 @@
 # Clip Snap Paint
 This is a snap of [Clip Studio paint](https://www.clipstudio.net/) for Linux.
-It packages CSP `v1.9.11`, wine 6 staging and the required changes to launch the application in a linux distribution.
+It packages CSP `v1.11.10`, wine 6 staging and the required changes to launch the application in a linux distribution.
 
 It has been packaged using [sommelier-core](https://github.com/snapcrafters/sommelier-core)
 
